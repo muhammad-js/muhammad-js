@@ -72,9 +72,7 @@ Here are some of the impactful projects I’ve been working on:
 ### 📫 Let's Connect
 
 - 📧 Email: [web4foryou@gmail.com](mailto:web4foryou@gmail.com)  
-- 💼 LinkedIn: *(Add your LinkedIn URL here if you want)*  
-- 🌐 Portfolio: *(Add your personal site here if available)*  
-
+ 
 ---
 
 🔥 *"Code is the closest thing we have to magic. I'm here to build it."*
