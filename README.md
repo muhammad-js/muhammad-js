@@ -1,10 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/uOGCY6g.png.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F70A56&width=450&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad;Computer+Science+Graduate;Full-Stack+Developer+%7C+Problem+Solver;Welcome+to+my+GitHub+space!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/nxQx0pM.png" width="80%" alt="Professional Banner"/>
+  <img src="https://i.imgur.com/uOGCY6g.png alt="Typing SVG" />
 </p>
 
 ---
