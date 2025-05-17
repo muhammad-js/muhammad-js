@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Muhammad</h1>
-<h3 align="center">Computer Science Graduate | Full-Stack Developer | Tech Problem Solver</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F70A56&width=450&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad;Computer+Science+Graduate;Full-Stack+Developer+%7C+Problem+Solver;Welcome+to+my+GitHub+space!" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  🚀 Passionate about building real-world web solutions, automating workflows, and blending code with creativity.
+  <img src="https://i.imgur.com/nxQx0pM.png" width="80%" alt="Professional Banner"/>
 </p>
 
 ---
 
-### 🔍 About Me
+### 👨‍💻 About Me
 
-- 🎓 **B.Sc. in Computer Science** – blending academic knowledge with hands-on development  
-- 💻 **Current Focus:** Full-stack applications, AI tools, blockchain verification systems, and automation  
-- 🌱 Always exploring new tech stacks, clean UI/UX, and scalable backend systems  
-- 🤝 Available for freelance work, internships, and collaborative tech projects
+- 🎓 **Computer Science Graduate** — turning ideas into digital solutions  
+- 🔧 Passionate about solving real-world problems with scalable tech  
+- 🌐 Currently working with React, PHP, Supabase, Firebase & automation tools  
+- 📚 Always learning, building, and growing in public
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 🚀 Tech Stack
 
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) 
@@ -29,51 +31,45 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FC6C03?style=flat-square&logo=firebase)  
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase)
 
-**Databases**  
+**Database**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
 
 ---
 
-### 🧠 Featured Projects
+### 🔥 Featured Projects
 
-Here are some of the impactful projects I’ve been working on:
-
-- 🧾 **Lost & Found Management System**  
-  A PHP-based full-stack web app for reporting and recovering lost items in local communities.
-
-- 🔐 **Blockchain-Based Certificate & Identity Verifier**  
-  A decentralized platform to verify educational and personal credentials on-chain.
-
-- 🕵️ **Community-Based Crime Reporting & Alert System**  
-  A platform to report and track crime data locally in real-time.
-
-- 🤖 **AI-Powered Exam Malpractice Detection System (Offline)**  
-  ML-powered detection using YOLO and EfficientDet for monitoring academic environments.
-
-- 🍽️ **Restaurant Menu Barcode Scanner**  
-  React + Supabase app for restaurants to display menus via QR/barcode, with a sleek UI.
-
-- 💸 **Rotational Payroll & Group Savings App**  
-  A modern web-based app that automates weekly contributions and monthly payouts for group savings schemes.
+- 🧾 **Lost & Found Management System** – Report & recover lost items using a custom PHP stack  
+- 🔐 **Blockchain Certificate Verifier** – Verifies identity and documents using blockchain  
+- 🚨 **Crime Reporting System** – Real-time community-based incident reporting web app  
+- 🧠 **Malpractice Detection AI** – Offline YOLOv7 & EfficientDet ensemble for exam security  
+- 🍽️ **Restaurant QR Menu Scanner** – React + Supabase food ordering interface  
+- 💸 **Group Savings App** – Rotational savings app with monthly payouts & admin tools
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-js&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-js&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-js&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-js&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect With Me
 
-- 📧 Email: [web4foryou@gmail.com](mailto:web4foryou@gmail.com)  
- 
+- 📧 [web4foryou@gmail.com](mailto:web4foryou@gmail.com)  
+- 🌐 *(Add your portfolio/LinkedIn when ready)*
+
 ---
 
-🔥 *"Code is the closest thing we have to magic. I'm here to build it."*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammad-js&label=Profile+Visits&color=blueviolet&style=flat" alt="Profile views" />
+</p>
 
+<p align="center">
+  <b>“Code is the closest thing we have to magic — I'm here to build it.”</b>
+</p>
